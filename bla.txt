@@ -6,6 +6,8 @@ using namespace std;
 int main()
 {
 
+cin >> eng >> enl; #ich weiß nicht wie das mit cin geht, hilfe bitte!!
+
 return 0;
 
 }
