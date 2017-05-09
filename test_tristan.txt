@@ -1,5 +1,2 @@
 #Test von Tristan
-Version 3
-Inhalt
-1+1=2 (das ist richtig :D)
-hinzugefügt im branch tristan_2
+alles auf anfang
